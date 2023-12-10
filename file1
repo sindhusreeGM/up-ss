@@ -1,0 +1,40 @@
+vi
+ls -lrt
+ls -lart
+df -TPH
+du -sh
+free -m ;free -h 
+top ; top -h
+lsblk
+cat
+tac
+pwd
+who am i
+touch
+mkdir
+more
+less
+echo ; echo $
+sudo yum intsall < package namne>
+cp = copy
+mv =move
+grep ; grep -i
+|
+^
+cat file1 | grep -i ^hello
+fdisk -l
+fdisk /dev/sdb
+sudo mount /app
+chmod 777 file name /directory name
+chown username filename
+chgrp grp name filename
+sudo useradd -aG username grpname
+set -n 
+cat /etc/os-relase
+chmown -R
+date
+cal
+uname
+wc ; wc * ;
+
+
